@@ -1,6 +1,6 @@
 # Expenses Tracker
 
-Expenses Tracker is a Java application built using Maven and the SpringBoot framework.
+Expenses Tracker application is a Java application built using Maven and the SpringBoot framework.
 
 ## Table of Contents
 
